@@ -4,7 +4,7 @@ With +5 years experience as a professional web developer, I have acquired knowle
 I enjoy every step of the develop process, from discussion and collaboration. I'm quietly confident, naturally curious, and perpetually working on improving myself.
 
 ### Skills
-![](https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=100)
+![](https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=60)
 <!--
 **yasin-bagheri/yasin-bagheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
