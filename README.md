@@ -4,12 +4,12 @@ With +5 years experience as a professional web developer, I have acquired knowle
 I enjoy every step of the develop process, from discussion and collaboration. I'm quietly confident, naturally curious, and perpetually working on improving myself.
 
 ### Skills
-<img src="https://s31.picofile.com/file/8470085418/react.png" width="45">
-<img src="https://s31.picofile.com/file/8470085384/nextjs.png" width="45">
-<img src="https://s31.picofile.com/file/8470085368/JavaScript.png" width="45">
-<img src="https://s30.picofile.com/file/8470085426/sass.png" width="45">
-<img src="https://s30.picofile.com/file/8470085450/Typescript.png" width="45">
-<img src="https://s31.picofile.com/file/8470085434/tailwind.png" width="45">
+<img src="https://s31.picofile.com/file/8470085418/react.png" width="40">
+<img src="https://s31.picofile.com/file/8470085384/nextjs.png" width="40">
+<img src="https://s31.picofile.com/file/8470085368/JavaScript.png" width="40">
+<img src="https://s30.picofile.com/file/8470085426/sass.png" width="40">
+<img src="https://s30.picofile.com/file/8470085450/Typescript.png" width="40">
+<img src="https://s31.picofile.com/file/8470085434/tailwind.png" width="40">
 <!--
 **yasin-bagheri/yasin-bagheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
