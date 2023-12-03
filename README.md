@@ -6,7 +6,7 @@ I enjoy every step of the develop process, from discussion and collaboration. I'
 ### Skills
 <div style="display: flex">
 <img src="https://s31.picofile.com/file/8470085418/react.png" width="35">
-<img src="https://s31.picofile.com/file/8470085384/nextjs.png" width="35" style="margin-left: 5px">
+<img src="https://s31.picofile.com/file/8470085384/nextjs.png" width="35" style="margin-left: 15px">
 <img src="https://s30.picofile.com/file/8470085450/Typescript.png" width="35" style="margin-left: 5px">
 <img src="https://s31.picofile.com/file/8470085368/JavaScript.png" width="35" style="margin-left: 5px">
 <img src="https://s30.picofile.com/file/8470085426/sass.png" width="35" style="margin-left: 5px">
